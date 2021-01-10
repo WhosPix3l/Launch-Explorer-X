@@ -1,7 +1,9 @@
 # Launch Explorer X
 Launch Explorer X is a simple browser based off Python.
 
-![All Releases](https://img.shields.io/github/downloads/WhosPix3l/Launch-Explorer-X/total?style=plastic) ![GitHub stars](https://img.shields.io/github/stars/WhosPix3l/Launch-Explorer-X?style=plastic)
+:exclamation: Launch Explorer X is not finished. Attempting to run run.py will not work.
+
+![All Releases](https://img.shields.io/github/downloads/WhosPix3l/Launch-Explorer-X/total?style=plastic) ![GitHub stars](https://img.shields.io/github/stars/WhosPix3l/Launch-Explorer-X?style=plastic) ![License](https://img.shields.io/github/license/WhosPix3l/Launch-Explorer-X?style=plastic)
 
 ## 🚀 Features
 
