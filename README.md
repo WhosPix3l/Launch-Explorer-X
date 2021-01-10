@@ -23,5 +23,5 @@ Need assistance or want to ask a question? You can [start a discussion](https://
 ## 🤝 Contributors
 - [WhosPix3l](https://github.com/WhosPix3l) - **Main Developer**
 
-##  Licenses
+## ⚖️ Licenses
 **Launch Explorer X for Desktop** is licensed under the [MPL-2.0](https://www.mozilla.org/en-US/MPL/2.0) license.
