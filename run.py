@@ -21,6 +21,6 @@ def loadURL(self):
 if __name__ == "__main__":
     app = QtGui.QApplication(sys.argv)
     myapp = MyBrowser()
-    myapp.ui.qwebview.load(QUrl('http://www.pythonspot.com'))
+    myapp.ui.qwebview.load(QUrl('https://www.youtube.com/channel/UCir9o6IV0CsIqtr006-WVTg'))
     myapp.show()
     sys.exit(app.exec_())
